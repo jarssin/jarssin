@@ -1,11 +1,11 @@
 <h2> Hi, I'm Jardesson Eduardo! <img src="https://media.giphy.com/media/vrUqksyo8PBdoDQTCM/giphy.gif" width="50"></h2>
 
-<p><em>Software Developer at @InCicle</em></p>
+<p><em>Software Developer at @MbLabs</em></p>
 
 ## 👾 &nbsp;About Me
 
 - 🔭 I'm learning Docker and CI/CD with GitLab.
-- 🌱 I'm currently using Nodejs with Adonis, Python with FastAPI.
+- 🌱 I'm currently using Nodejs with Express, Python with FastAPI.
 
 
 <p align="center">
@@ -39,6 +39,6 @@
 ## ⚙️ &nbsp;GitHub Statistics</b>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jardessomonster&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregomes42&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jardessomonster&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardessomonster&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 <hr/>
